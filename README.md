@@ -24,8 +24,8 @@ WARNING VIBE CODE !!!!!!
 ## Database Setup
 The database is managed via SQLite3. The schema includes a `users` table for authentication and session management.
 
-# Default Admin Account
-Username: `admin`
-Password: `admin12`
+## Default Admin Account
+- Username: `admin`
+- Password: `admin12`
 
 **Udh Gitu Aja Thx**
